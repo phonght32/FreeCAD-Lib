@@ -1,0 +1,2 @@
+# FreeCAD-Lib
+FreeCAD library.
